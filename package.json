@@ -9,7 +9,7 @@
   "author": "Muhammad Ali",
   "license": "ISC",
   "dependencies": {
-    "moongose": "^1.0.0",
+    "mongoose": "^6.8.3",
     "underscore": "^1.13.6"
   }
 }
